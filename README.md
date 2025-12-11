@@ -1,4 +1,4 @@
-# Olá, me chamo Camila <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/0e76385c-b005-480d-bdd4-bd934efbf11a" />
+# Olá, me chamo Camila! <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/0e76385c-b005-480d-bdd4-bd934efbf11a" />
 
 - ⚙️ Sou formada em Engenharia Química
 - ☕ Movida por café e curiosidade
